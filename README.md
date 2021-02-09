@@ -62,7 +62,7 @@ The main function of this program works in 3 basic steps.
 	* Give output list
 
 
-### Usage
+## Usage
 
 This program can be run on the command line in order to solve this problem. The program takes one command line argument, which contains the path to a text file. This text file should contain several lines, each line describing one test case for the problem.
 
