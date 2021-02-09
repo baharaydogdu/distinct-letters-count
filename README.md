@@ -12,7 +12,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>   
-    <li><a href="#design-approach">Design Approach</a></li>
+    <li><a href="#program-structure">Program Structure</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#sample-input-output">Sample Input Output</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -39,7 +39,7 @@ Program throws exceptions according to below constraints.
 
 This program is written in Java 8.
 
-## Design Approach
+## Program Structure
 
 The main function of this program works in 3 basic steps.
 
